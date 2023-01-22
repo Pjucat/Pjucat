@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pjucat
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning C#, HTML and CSS
+- 🌱 I’m currently learning Rust, HTML, CSS and JavaScript
 - 📫 Please don't reach out to me
 
 <!---
